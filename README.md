@@ -1,6 +1,6 @@
 # Single-Page E-commerce Site Development using React JS
 
-![E-Commerce Site](./overview/1.png)
+![E-Commerce Site live at](https://wicky2001.github.io/online_store/)
 
 ## Table of Contents
 
