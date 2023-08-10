@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/online_store/static/css/main.356e5488.css",
+    "main.js": "/online_store/static/js/main.7ef73467.js",
+    "static/js/787.d3befce1.chunk.js": "/online_store/static/js/787.d3befce1.chunk.js",
+    "static/media/happyGirl.jpg": "/online_store/static/media/happyGirl.591d861d1a3402b6d0bc.jpg",
+    "static/media/image2.png": "/online_store/static/media/image2.52a44c93ef33c4347dad.png",
+    "index.html": "/online_store/index.html",
+    "main.356e5488.css.map": "/online_store/static/css/main.356e5488.css.map",
+    "main.7ef73467.js.map": "/online_store/static/js/main.7ef73467.js.map",
+    "787.d3befce1.chunk.js.map": "/online_store/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.356e5488.css",
+    "static/js/main.7ef73467.js"
+  ]
+}
