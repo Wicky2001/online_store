@@ -41,5 +41,6 @@ _Search functionality for finding products by keywords._
 
 ![Cart](./overview/cart.png)
 _Cart view displaying selected products for purchase._
+![product](./overview/product.png)
 
 Feel free to explore the full functionality and visual appeal of the E-commerce site by referring to the provided screenshots.
