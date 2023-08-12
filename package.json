@@ -43,7 +43,7 @@
     "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.3"
   },
-  "description": "",
+  "description": "wicky",
   "main": "tailwind.config.js",
   "author": "",
   "license": "ISC"
