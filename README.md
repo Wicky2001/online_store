@@ -39,7 +39,7 @@ _Homepage showcasing the list of products._
 ![Search Functionality](./overview/5.png)
 _Search functionality for finding products by keywords._
 
-![Cart](./overview/4.png)
+![Cart](./overview/cart.png)
 _Cart view displaying selected products for purchase._
 
 Feel free to explore the full functionality and visual appeal of the E-commerce site by referring to the provided screenshots.
