@@ -42,7 +42,7 @@ const Product = () => {
         JSON.stringify([...cart, { ...product, quantity: 1 }])
       );
     }
-    alert("Product added to cart");
+    // alert("Product added to cart");
     if (redirect) {
       navigate("/cart");
     }
