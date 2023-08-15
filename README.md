@@ -1,7 +1,5 @@
 # Single-Page E-commerce Site Development using React JS
 
-## site live at -: https://wicky2001.github.io/online_store/
-
 ## Table of Contents
 
 - [Features](#features)
