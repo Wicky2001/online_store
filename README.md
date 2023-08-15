@@ -36,7 +36,7 @@
 ![Homepage](./overview/1.png)
 _Homepage showcasing the list of products._
 
-![Search Functionality](./overview/5.png)
+![Search Functionality](./overview/productPage.png)
 _Search functionality for finding products by keywords._
 
 ![Cart](./overview/cart.png)
