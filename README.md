@@ -1,5 +1,7 @@
 # Single-Page E-commerce Site Development using React JS
 
+#### git hub repository link -: https://github.com/Wicky2001/online_store.git
+
 ## Table of Contents
 
 - [Features](#features)
@@ -39,6 +41,10 @@ _Search functionality for finding products by keywords._
 
 ![Cart](./overview/cart.png)
 _Cart view displaying selected products for purchase._
+
+![Cart](./overview/cart2.png)
+_Cart view displaying selected products for purchase._
+
 ![product](./overview/product.png)
 
 Feel free to explore the full functionality and visual appeal of the E-commerce site by referring to the provided screenshots.
